@@ -1,0 +1,5 @@
+#!/usr/bin/ruby 
+#
+require 'carb'
+
+Carb::CLI.start( ARGV )
